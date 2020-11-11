@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506890053005",
+    "firebase_url": "https://kudzoka-app-1023.firebaseio.com",
+    "project_id": "kudzoka-app-1023",
+    "storage_bucket": "kudzoka-app-1023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506890053005:android:62f0b59c2384f7199909c4",
+        "android_client_info": {
+          "package_name": "com.kudzoka.kudozka_rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506890053005-3ps996775omsbodk4rktlnm6dffmt4vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kudzoka.kudozka_rider_app",
+            "certificate_hash": "cf090c6051e361252019cb0b3a6bccf5788ca22c"
+          }
+        },
+        {
+          "client_id": "506890053005-82o5vc15ruk46049jjn2gn9msrtost04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpSw4rDty2WWM8WP7lZBydcCrb_QuBOYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506890053005-82o5vc15ruk46049jjn2gn9msrtost04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
